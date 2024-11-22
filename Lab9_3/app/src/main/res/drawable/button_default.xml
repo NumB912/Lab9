@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#6200EE"/>  <!-- Nền tím cho nút -->
+    <corners android:radius="28dp"/>  <!-- Bo góc rộng cho nút -->
+    <padding android:left="16dp" android:right="16dp" android:top="12dp" android:bottom="12dp"/>  <!-- Padding cho nút -->
+</shape>
